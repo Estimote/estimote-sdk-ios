@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "EstimoteSDK",
-            url: "https://github.com/Estimote/estimote-sdk-ios/releases/download/v1.0.0-beta/EstimoteSDK.xcframework.zip",
-            checksum: "8dabf0cef406b39f42397c61b4200e47adfa92b0f7e1bfd8be699e2a462429cd"
+            url: "https://github.com/Estimote/estimote-sdk-ios/releases/download/v1.0.0-beta2/EstimoteSDK.xcframework.zip",
+            checksum: "e6b2c33f789b61b815bf38b6fe5bd8770139d91bf8383f1f148358e54f1a407c"
         )
     ],
     swiftLanguageVersions: [.v5]
